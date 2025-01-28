@@ -1,5 +1,8 @@
 # YouTube Downloader App
 
+### Requirements:
+- FFmpeg (included in the release, or you can download it [here](https://ffmpeg.org/download.html)).
+
 A simple app to download YouTube videos with a GUI.
 
 ## How to Use
